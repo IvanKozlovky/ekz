@@ -1,0 +1,6 @@
+C:\Users\Student.LAB2208\Desktop\ekz\ekz\ekz\bin\Debug\ekz.exe.config
+C:\Users\Student.LAB2208\Desktop\ekz\ekz\ekz\bin\Debug\ekz.exe
+C:\Users\Student.LAB2208\Desktop\ekz\ekz\ekz\bin\Debug\ekz.pdb
+C:\Users\Student.LAB2208\Desktop\ekz\ekz\ekz\obj\Debug\ekz.csprojResolveAssemblyReference.cache
+C:\Users\Student.LAB2208\Desktop\ekz\ekz\ekz\obj\Debug\ekz.exe
+C:\Users\Student.LAB2208\Desktop\ekz\ekz\ekz\obj\Debug\ekz.pdb
